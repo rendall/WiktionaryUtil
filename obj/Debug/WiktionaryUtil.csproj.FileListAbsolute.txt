@@ -1,0 +1,11 @@
+C:\workspace\libraries\WiktionaryUtil\bin\Debug\WiktionaryUtil.dll
+C:\workspace\libraries\WiktionaryUtil\bin\Debug\WiktionaryUtil.pdb
+C:\workspace\libraries\WiktionaryUtil\bin\Debug\AngleSharp.dll
+C:\workspace\libraries\WiktionaryUtil\bin\Debug\System.Collections.Immutable.dll
+C:\workspace\libraries\WiktionaryUtil\bin\Debug\AngleSharp.xml
+C:\workspace\libraries\WiktionaryUtil\bin\Debug\System.Collections.Immutable.xml
+C:\workspace\libraries\WiktionaryUtil\obj\Debug\WiktionaryUtil.dll
+C:\workspace\libraries\WiktionaryUtil\obj\Debug\WiktionaryUtil.pdb
+C:\workspace\libraries\WiktionaryUtil\obj\Debug\WiktionaryUtil.csprojAssemblyReference.cache
+C:\workspace\libraries\WiktionaryUtil\obj\Debug\WiktionaryUtil.csproj.CoreCompileInputs.cache
+C:\workspace\libraries\WiktionaryUtil\obj\Debug\WiktionaryUtil.csproj.CopyComplete
